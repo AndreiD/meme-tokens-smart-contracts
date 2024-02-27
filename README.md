@@ -6,6 +6,10 @@
 
 ---
 
+# INTERESTED IN NEXT VIDEO TUTORIAL ON TAX ON BUY/SELL ?
+
+- write me in telegram at @andyxyz1
+
 ## 📖 What You'll Learn Here:
 
 - Creating meme coin tokens 🪙 LEVEL: EASY! 
