@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🚀 Welcome to the Meme Coin University 📚</h1>
   <p>Where we master the art of meme coin tokens with tax on Ethereum smart contracts! 💰🧠</p>
-  <img src="[[https://media.giphy.com/media/X7mgoVJMfN2Jy/giphy.gif](https://media.tenor.com/OdUtHtpjSlYAAAAi/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BB%D1%83%D0%BD%D0%B0.gif)]([https://media.tenor.com/lLBGctqxapYAAAAM/to-the-moon-space.gif](https://media.tenor.com/OdUtHtpjSlYAAAAi/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D0%BB%D1%83%D0%BD%D0%B0.gif))" alt="To the moon!" width="300">
+  <img src="https://www.publicdomainpictures.net/pictures/400000/nahled/vollmond-mond-png-clipart.png" alt="moon"/>
 </div>
 
 ---
