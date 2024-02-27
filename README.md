@@ -6,6 +6,8 @@
 
 ---
 
+## This repo is the explanation from this video: https://www.youtube.com/channel/UCTDnHtfRFCCgcVghKsvsx7A?sub_confirmation=1
+
 # INTERESTED IN NEXT VIDEO TUTORIAL ON TAX ON BUY/SELL ?
 
 - write me in telegram at @andyxyz1
