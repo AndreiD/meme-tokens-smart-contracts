@@ -6,7 +6,7 @@
 
 ---
 
-## This repo is the explanation from this video: https://www.youtube.com/channel/UCTDnHtfRFCCgcVghKsvsx7A?sub_confirmation=1
+
 
 # INTERESTED IN NEXT VIDEO TUTORIAL ON TAX ON BUY/SELL ?
 
@@ -31,6 +31,8 @@
 ## 🛠️ Resources
 
 https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20 
+
+## More tutorials?: https://www.youtube.com/channel/UCTDnHtfRFCCgcVghKsvsx7A?sub_confirmation=1
 
 ## 🚀 Contribute:
 - Found a bug? Have a feature request? Contributions are welcome! 🙌
