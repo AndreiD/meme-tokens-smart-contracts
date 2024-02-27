@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Welcome to the Meme Coin University 📚</h1>
+  <h1>🚀 Welcome to the Meme Coin University - LEVEL: EASY 📚</h1>
   <p>Where we master the art of meme coin tokens with tax on Ethereum smart contracts! 💰🧠</p>
   <img src="https://www.publicdomainpictures.net/pictures/400000/nahled/vollmond-mond-png-clipart.png" alt="moon"/>
 </div>
@@ -8,7 +8,7 @@
 
 ## 📖 What You'll Learn Here:
 
-- Creating meme coin tokens 🪙
+- Creating meme coin tokens 🪙 LEVEL: EASY! 
 - Implementing tax mechanisms on Ethereum smart contracts 📈
 - And much more! 🚀🌕
 
